@@ -1,0 +1,25 @@
+const colors = {
+  default: '#ffffff',
+  alert: '#ffffff',
+  alertInput: '#f8f8f8',
+  background: '#F7EFE2',
+  navigator: '#F7F6F2',
+  icon: '#9B9B9A',
+  title: '#EE693F',
+  darkprimary: '#404953',
+  primary: '#009688',
+  lightprimary: '#b2dfdb',
+  text: '#ffffff',
+  accent: '#5c7c91',
+  primaryText: '#212121',
+  secondaryText: '#727272',
+  divider: '#C1C1C1',
+  blue: '#10B8FF',
+  orange: '#EE693F',
+  yellow: '#FBC02D',
+  pink: '#EE9593',
+  red: '#EC5751',
+  green: '#78A244',
+}
+
+export default colors
